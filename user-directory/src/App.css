@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: black
+}
+
+p {
+  padding-top: 10px
+}
+
+li {
+  margin-left: 60px;
+  padding-top: 10px
+}
+
+button {
+  background: rgba(0,0,0,0);
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px
+}
+
+.blackDynamite {
+  background: deepskyblue;
+  width: 90px;
+  margin: 10px;
+  border-radius: 12px;
+  font-size: 14px;
+  padding: 5px
+}
